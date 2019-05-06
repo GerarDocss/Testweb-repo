@@ -35,7 +35,7 @@ ALLOWED_HOSTS = ['myawesomedjangoapp.herokuapp.com']
 INSTALLED_APPS = [
     'blog.apps.BlogConfig',
     'users.apps.UsersConfig',
-    'users.apps.SensorConfig',
+    'sensor.apps.SensorConfig',
     'crispy_forms',
     'django.contrib.admin',
     'django.contrib.auth',
