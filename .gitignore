@@ -102,6 +102,8 @@ venv.bak/
 venv
 .vscode
 
+django_envo
+
 # Spyder project settings
 .spyderproject
 .spyproject
